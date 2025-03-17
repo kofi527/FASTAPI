@@ -17,4 +17,10 @@ fastapi
 uvicorn  - acts as a webserver to run our api app
 pydantic = pydantic models helps with data evaluation of data coming in and going out. FAST API can sutomatically validate data coming in and it can format data going out based on pydantic models.
 
+
+ visual steps
  
+Packages that are needed to be installed within the directory
+
+ 1. ![1  packages being listed in the requirements txt file](https://github.com/user-attachments/assets/50ef5424-9884-42f3-823d-2c50454a4c07)
+
