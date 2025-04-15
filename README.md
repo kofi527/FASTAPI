@@ -24,3 +24,8 @@ Packages that are needed to be installed within the directory
 
  1. ![1  packages being listed in the requirements txt file](https://github.com/user-attachments/assets/50ef5424-9884-42f3-823d-2c50454a4c07)
 
+ 2.  Installing the various packages within your virtual environment
+    
+    ![2  installing the packages within your virtual environment](https://github.com/user-attachments/assets/ccf939e8-64ef-449b-82a6-9ac856b2fb7e)
+
+
