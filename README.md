@@ -28,4 +28,9 @@ pydantic = pydantic models helps with data evaluation of data coming in and goin
     
     ![2  installing the packages within your virtual environment](https://github.com/user-attachments/assets/ccf939e8-64ef-449b-82a6-9ac856b2fb7e)
 
+6. Activating your virtual environment and testing your API
+
+   ![3 activating your virtual environment and testing the api](https://github.com/user-attachments/assets/f7a4c6e1-f02c-4cfb-a451-d6036e9275ac)
+
+
 
