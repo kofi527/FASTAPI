@@ -32,5 +32,8 @@ pydantic = pydantic models helps with data evaluation of data coming in and goin
 
    ![3 activating your virtual environment and testing the api](https://github.com/user-attachments/assets/f7a4c6e1-f02c-4cfb-a451-d6036e9275ac)
 
+7. Setting up your front-end using React
+
+   ![4  using react to create a front end dircectory for the project](https://github.com/user-attachments/assets/aec9481f-231b-4ef3-b859-35527655d4c2)
 
 
